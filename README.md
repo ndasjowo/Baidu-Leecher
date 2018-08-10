@@ -71,4 +71,4 @@ Click `RPCdownload` button
 
 ## Source
 
-[source baidudl](https://github.com/Kyle-Kyle/baidudl).
+[source baidu-dl](https://github.com/Kyle-Kyle/baidudl).

@@ -34,7 +34,7 @@ Select the directory containing baidudl
 
 ## How to use baidudl so that your download speed won't be limited
 
-![a screenshot](https://raw.githubusercontent.com/Kyle-Kyle/baidudl/master/extension/screenshots/screenshot3.png)
+![a screenshot](https://github.com/ndasjowo/baidudl/raw/master/screenshots/screenshot3.png)
 
 
 ### Method1: Directly download(not recommended)
@@ -69,6 +69,6 @@ Open up `baidudl_rpc`, or run cmd `aria2c --enable-rpc -j 1`
 
 Click `RPCdownload` button
 
-## Contact me
+## Source
 
-If you found any bugs or you have any idea about this extension, please contact me via email jkjh1jkjh1@gmail.com or [create an issue](https://github.com/Kyle-Kyle/baidudl/issues/new).
+[source baidudl](https://github.com/Kyle-Kyle/baidudl).
